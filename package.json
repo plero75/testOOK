@@ -1,6 +1,7 @@
 {
   "name": "dashboard-vincennes",
   "version": "1.0.0",
+  "homepage": "https://plero75.github.io/testOOK",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
