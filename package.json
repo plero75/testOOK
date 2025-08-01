@@ -1,13 +1,12 @@
-
 {
   "name": "dashboard-vincennes",
   "version": "1.0.0",
+  "private": true,
   "homepage": "https://plero75.github.io/testOOK",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
@@ -17,6 +16,6 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
     "vite": "^4.0.0",
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^6.0.0"
   }
 }
